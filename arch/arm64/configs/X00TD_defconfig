@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-kernel.lnx.4.4.r42-rel"
+CONFIG_LOCALVERSION="-potum-clo-ksu"
 CONFIG_KSU=y
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_USELIB is not set
